@@ -144,7 +144,7 @@ Ask these during project init/planning so knowledge maps cleanly to OKF (don't a
 4. What **operational runbooks** exist (deploy, migrate, on-call, incident)?
 5. What **playbooks / decision guides** drive judgment calls?
 6. What **APIs / integrations / services** does it expose or depend on?
-7. What **external authorities** should concepts cite (`resource` and `sources` links)?
+7. What **external authorities** should concepts cite (`resource` and `sources` links), and what **independent check** (a validator, a reconciliation, a query against the system of record) is what populates `verified`? Prefer the raw system over a digest of it.
 8. Who **produces** vs **consumes** this knowledge (humans, agents, pipelines)? Who is allowed to mark a concept `verified`?
 
 Capture answers directly as OKF concept files (or stubs) rather than prose notes.
