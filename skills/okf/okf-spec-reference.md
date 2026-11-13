@@ -1,5 +1,21 @@
 # OKF v0.2: Normative Reference
 
+## Contents
+
+- §2 Terminology
+- §3 Bundle structure
+- §4 Concept documents
+- §5 Provenance, trust, lifecycle
+- §6 Cross-linking and paths
+- §7 Actor convention
+- §8 Index files
+- §9 Log files
+- §10 Attested Computation
+- §11 Conformance
+- §12 Versioning
+- §13 Changes from v0.1
+- Sources
+
 Open Knowledge Format (OKF), published by Google Cloud in the dedicated repo
 `GoogleCloudPlatform/open-knowledge-format`, specification version **0.2**
 (July 2026; timestamp rule tightened August 21, 2026). This file restates the
